@@ -25,7 +25,7 @@ npm install -g @angular/cli
 
 ## Instructions
 
-Familiarise yourself with the existing `App` component (Take a look at the [Angular component recap](./angular-recap.md) for an idea of the different parts of the component)
+Familiarise yourself with the existing `App` component (Take a look at the [Angular component recap](https://github.com/boolean-uk/angular-recap/blob/main/components.md) for an idea of the different parts of the component)
 
 Implement the following requirements:
 
